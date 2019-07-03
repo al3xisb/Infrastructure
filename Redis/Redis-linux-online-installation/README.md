@@ -8,4 +8,4 @@ Installation steps :
 
 `chmod +x redis-installer.sh`</br>
 
-`./redis-installer.sh`</br>
+`sudo ./redis-installer.sh`</br>
